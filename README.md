@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Jha</h1>
-<h3 align="center">A passionate Mobile developer from India</h3>
+<h3 align="center">I'm  developing cross-platform mobile apps using React Native - for both Android and iOS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketjha9179&label=Profile%20views&color=0e75b6&style=flat" alt="aniketjha9179" /> </p>
 
